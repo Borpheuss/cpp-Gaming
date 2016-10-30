@@ -1,0 +1,13 @@
+﻿  Game.cpp
+Game.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Game.cpp(68): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Game.cpp(69): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Game.cpp(86): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Game.cpp(99): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  3 of 631 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> C:\Users\PC\Desktop\tic tac toe\Release\Engine.exe
+  Engine.vcxproj -> C:\Users\PC\Desktop\tic tac toe\Release\Engine.pdb (Full PDB)

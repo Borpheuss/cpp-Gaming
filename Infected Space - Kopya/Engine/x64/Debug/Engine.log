@@ -1,0 +1,19 @@
+﻿  Game.cpp
+c:\users\pc\desktop\infected space\engine\game.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(76): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(77): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(94): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(107): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(142): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(161): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(162): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(209): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(234): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(259): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(268): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(305): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pc\desktop\infected space\engine\game.cpp(337): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\pc\desktop\infected space\engine\game.cpp(242): warning C4715: 'Game::BlockIsShot': not all control paths return a value
+c:\users\pc\desktop\infected space\engine\game.cpp(276): warning C4715: 'Game::PlayerIsCrushedToBlock': not all control paths return a value
+  Engine.vcxproj -> C:\Users\PC\Desktop\Infected Space\x64\Debug\Engine.exe
+  Engine.vcxproj -> C:\Users\PC\Desktop\Infected Space\x64\Debug\Engine.pdb (Partial PDB)

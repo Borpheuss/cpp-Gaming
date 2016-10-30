@@ -1,0 +1,32 @@
+﻿  Game.cpp
+  Main.cpp
+  MainWindow.cpp
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2059: syntax error: 'for' (compiling source file Game.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2059: syntax error: 'for' (compiling source file Main.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2143: syntax error: missing ')' before ';' (compiling source file Game.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2143: syntax error: missing ')' before ';' (compiling source file Main.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2238: unexpected token(s) preceding ';' (compiling source file Game.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2238: unexpected token(s) preceding ';' (compiling source file Main.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2143: syntax error: missing ';' before '<' (compiling source file Game.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2143: syntax error: missing ';' before '<' (compiling source file Main.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int (compiling source file Game.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int (compiling source file Main.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2143: syntax error: missing ';' before '++' (compiling source file Game.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2143: syntax error: missing ';' before '++' (compiling source file Main.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2059: syntax error: ')' (compiling source file Game.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2059: syntax error: ')' (compiling source file Main.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2334: unexpected token(s) preceding '{'; skipping apparent function body (compiling source file Game.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2334: unexpected token(s) preceding '{'; skipping apparent function body (compiling source file Main.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2059: syntax error: 'for' (compiling source file MainWindow.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2143: syntax error: missing ')' before ';' (compiling source file MainWindow.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2238: unexpected token(s) preceding ';' (compiling source file MainWindow.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2143: syntax error: missing ';' before '<' (compiling source file MainWindow.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int (compiling source file MainWindow.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2143: syntax error: missing ';' before '++' (compiling source file MainWindow.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2059: syntax error: ')' (compiling source file MainWindow.cpp)
+c:\users\pc\desktop\tic tac toe\engine\Game.h(63): error C2334: unexpected token(s) preceding '{'; skipping apparent function body (compiling source file MainWindow.cpp)
+Game.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Game.cpp(68): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Game.cpp(69): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Game.cpp(86): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Game.cpp(99): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
